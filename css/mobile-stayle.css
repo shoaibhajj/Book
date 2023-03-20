@@ -1,0 +1,13 @@
+@media  only screen and (max-width: 780px) {
+#section-2 .row .panel{
+    position: initial;
+}
+#section-5 .col-md-6{
+    display: inline-block;    
+    text-align: center !important;
+        
+}
+.card{
+    margin-bottom: 5%  !important;
+}
+}
